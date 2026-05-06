@@ -1,5 +1,5 @@
 # WEB Zona Fit GYM 
-Aplicación WEB creada con **Java** y con el framework de interfaz de usuario de **JavaServer Faces**.
+Aplicación WEB creada con **Java** y con el framework de interfaz de usuario de **JakartaServer Faces**.
 Esta aplicación permite el registro y la gestión de los clientes de un gimnasio accediendo desde un navegador.
 
 ## Funcionalidades
