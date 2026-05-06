@@ -21,7 +21,7 @@ Esta aplicación permite el registro y la gestión de los clientes de un gimnasi
 - Configurar la base de datos MySQL
 
 ## Ejecución
-- Seleccionar la clase ZonaFitSwing (src/main/java/gm.zona_fit/ZonaFitWeb)
+- Seleccionar la clase ZonaFitWeb(src/main/java/gm.zona_fit/ZonaFitWeb)
 - Ejecutar la aplicación
 - Acceder al navegador web
 - En la barra de búsqueda del navegador web colocar la siguiente URL localhost:8080/index.xhtml
